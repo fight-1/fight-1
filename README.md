@@ -133,10 +133,10 @@ I'm an **AI Builder** — obsessed with one question: *can a machine truly under
 ### 🌤 Today
 
 <!-- TODAY:START -->
-<div align="center">
-<img src="https://img.shields.io/badge/Today-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="today"/>
-<img src="https://img.shields.io/badge/mood-Shipping-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="mood"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sep 06, 2026-22D3EE?style=for-the-badge&labelColor=1F2937" alt="date"/>
+  <img src="https://img.shields.io/badge/mood-Shipping-22C55E?style=for-the-badge&labelColor=1F2937" alt="mood"/>
+</p>
 <!-- TODAY:END -->
 
 <sub>Auto-refreshed every day by GitHub Actions.</sub>
@@ -392,12 +392,19 @@ jobs:
           python3 - "$D" "$M" <<'PY'
           import sys, re, pathlib
           d, m = sys.argv[1], sys.argv[2]
-          b = ('<!-- TODAY:START -->\n<p align="center">\n'
-               f'  <img src="https://img.shields.io/badge/{d}-22D3EE?style=for-the-badge&labelColor=1F2937" alt="date"/>\n'
-               f'  <img src="https://img.shields.io/badge/mood-{m}-22C55E?style=for-the-badge&labelColor=1F2937" alt="mood"/>\n'
-               '</p>\n<!-- TODAY:END -->')
+          b = ('<!-- TODAY:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Sep 06, 2026-22D3EE?style=for-the-badge&labelColor=1F2937" alt="date"/>
+  <img src="https://img.shields.io/badge/mood-Shipping-22C55E?style=for-the-badge&labelColor=1F2937" alt="mood"/>
+</p>
+<!-- TODAY:END -->')
           p = pathlib.Path('README.md'); s = p.read_text(encoding='utf-8')
-          s = re.sub(r'<!-- TODAY:START -->.*?<!-- TODAY:END -->', b, s, flags=re.S)
+          s = re.sub(r'<!-- TODAY:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Sep 06, 2026-22D3EE?style=for-the-badge&labelColor=1F2937" alt="date"/>
+  <img src="https://img.shields.io/badge/mood-Shipping-22C55E?style=for-the-badge&labelColor=1F2937" alt="mood"/>
+</p>
+<!-- TODAY:END -->', b, s, flags=re.S)
           p.write_text(s, encoding='utf-8')
           PY
       - run: |
