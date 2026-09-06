@@ -37,7 +37,7 @@
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-featured-project">Project</a> •
   <a href="#-github-stats">Stats</a> •
-  <a href="#-latest-posts">Blog</a> •
+  <a href="#✍️-latest-posts">Blog</a> •
   <a href="#-lets-connect">Contact</a>
 </div>
 
@@ -69,7 +69,7 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark">  
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=light">  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark" alt="tech stack">  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark" width="100%" alt="tech stack">  
 </picture>
 
 <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Claude%20Code-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Claude Code"/></a>  
@@ -92,7 +92,7 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 </div>
 
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fight-1&repo=graphify&theme=radical&hide_border=true&show_owner=true" alt="graphify"/>  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fight-1&repo=graphify&theme=tokyonight&hide_border=true&show_owner=true" alt="graphify"/>  
 </div>
 
 #### 📊 Project Metrics
@@ -108,21 +108,21 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 <div align="center">  
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&cache_seconds=86400">  
-  <img src="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" height="175" alt="stats">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400">  
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=github&hide_border=true&include_all_commits=true&cache_seconds=86400">  
+  <img src="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="175" alt="stats">  
 </picture>
 
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=radical&hide_border=true&cache_seconds=86400">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=graywhite&hide_border=true&cache_seconds=86400">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="175" alt="top langs">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400">  
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=github&hide_border=true&cache_seconds=86400">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="175" alt="top langs">  
 </picture>
 
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fight-1&theme=radical&hide_border=true">  
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fight-1&theme=default&hide_border=true">  
-  <img src="https://streak-stats.demolab.com?user=fight-1&theme=radical&hide_border=true" height="175" alt="streak">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fight-1&theme=tokyonight&hide_border=true">  
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fight-1&theme=github&hide_border=true">  
+  <img src="https://streak-stats.demolab.com?user=fight-1&theme=tokyonight&hide_border=true" height="175" alt="streak">  
 </picture>  
 </div>
 
@@ -132,11 +132,24 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 <div align="center">  
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fight-1&theme=radical&margin-w=10&column=8&no-bg=true&no-frame=true">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fight-1&theme=tokyonight&margin-w=10&column=8&no-bg=true&no-frame=true">  
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fight-1&theme=flat&margin-w=10&column=8&no-bg=true&no-frame=true">  
-  <img src="https://github-profile-trophy.vercel.app/?username=fight-1&theme=radical&margin-w=10&column=8&no-bg=true&no-frame=true" width="100%" alt="trophies">  
+  <img src="https://github-profile-trophy.vercel.app/?username=fight-1&theme=tokyonight&margin-w=10&column=8&no-bg=true&no-frame=true" width="100%" alt="trophies">  
 </picture>  
 </div>
+
+---
+
+### 🌤 Today
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Today%20%E2%80%94%20updated%20daily-22D3EE?style=for-the-badge&labelColor=1F2937" alt="today"/>
+</p>
+
+<!-- TODAY:START -->
+<!-- TODAY:END -->
+
+<sub>Auto-refreshed every day by the <code>Daily mood</code> GitHub Action.</sub>
 
 ---
 
@@ -159,9 +172,9 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 <summary><b>🔥 Activity Graph — Yearly contribution curve</b></summary>
 
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=dracula&hide_border=true&area=true">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=default&hide_border=true&area=true">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=dracula&hide_border=true&area=true" width="100%" alt="activity graph">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=tokyonight&hide_border=true&area=true">  
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=github&hide_border=true&area=true">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=tokyonight&hide_border=true&area=true" width="100%" alt="activity graph">  
 </picture>
 
 </details>
@@ -181,34 +194,12 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
   <a href="https://fight-1.github.io/"><img src="https://img.shields.io/badge/My_Blog-Visit_Now-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="blog"/></a>
 </div>
 
-<details>
-<summary><b>📌 Latest Articles</b></summary>
-<br>
-<div align="center">
-  <a href="https://github.com/fight-1">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=YOUR_USER_ID&theme=radical" alt="stackoverflow">
-  </a>
-</div>
-<!--
-  Replace the URL below with your actual RSS feed.
-  This section will auto-update with your latest articles.
--->
-<!--
-<div align="center">
-  <a href="https://github.com/gautamkrishnar/blog-post-workflow">
-    <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-summary/1.svg" alt="latest posts">
-  </a>
-</div>
--->
-</details>
 
 ---
 
 ### 📌 More about me
 
-- 🌍 Based in **Beijing, China** — happy to collaborate remotely across time zones
 - 🎯 **2026 Focus**: Agent tooling — making AI assistants truly understand large-scale codebases
-- 🤝 **Open to**: Open-source collaboration, AI tooling discussions, building in public
 - ⚡ **Fun fact**: I'd rather write a parser than trust an embedding
 
 ---
