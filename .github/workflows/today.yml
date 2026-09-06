@@ -1,0 +1,33 @@
+name: Daily mood
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite TODAY block
+        run: |
+          D=$(date -u '+%b %d, %Y')
+          M=$(shuf -n1 -e Shipping Refactoring Debugging "Reading source" "Writing docs" "Fighting YAML")
+          python3 - "$D" "$M" <<'PY'
+          import sys, re, pathlib
+          d, m = sys.argv[1], sys.argv[2]
+          b = ('<!-- TODAY:START -->\n<p align="center">\n'
+               f'  <img src="https://img.shields.io/badge/{d}-22D3EE?style=for-the-badge&labelColor=1F2937" alt="date"/>\n'
+               f'  <img src="https://img.shields.io/badge/mood-{m}-22C55E?style=for-the-badge&labelColor=1F2937" alt="mood"/>\n'
+               '</p>\n<!-- TODAY:END -->')
+          p = pathlib.Path('README.md'); s = p.read_text(encoding='utf-8')
+          s = re.sub(r'<!-- TODAY:START -->.*?<!-- TODAY:END -->', b, s, flags=re.S)
+          p.write_text(s, encoding='utf-8')
+          PY
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: daily mood"
+          git push
