@@ -147,6 +147,10 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 </p>
 
 <!-- TODAY:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Sep 06, 2026-22D3EE?style=for-the-badge&labelColor=1F2937" alt="date"/>
+  <img src="https://img.shields.io/badge/mood-Refactoring-22C55E?style=for-the-badge&labelColor=1F2937" alt="mood"/>
+</p>
 <!-- TODAY:END -->
 
 <sub>Auto-refreshed every day by the <code>Daily mood</code> GitHub Action.</sub>
