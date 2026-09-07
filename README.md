@@ -53,6 +53,10 @@ I'm an **AI Builder** driven by a single obsession: *can a machine truly underst
 ### 🛠 Tech Stack
 
 <div align="center">  
+<!-- 技术栈自助配置：想增删图标，直接改下面 i= 后面的名称（英文逗号分隔，主题可改 theme=light/dark）。
+     全部合法名称清单：https://skillicons.dev/api/icons
+     常用缩写：js=JavaScript · ts=TypeScript · py=Python · go=Go · vue=Vue · k8s=Kubernetes · next=Next.js
+     注意：名称写错不会报错，而是渲染成裂图/异常图标；改完可先在浏览器打开这条 URL 验证，确认无误再提交。 -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,opencv,jest,postman&theme=dark" alt="tech stack">
 
 <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Claude%20Code-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Claude Code"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Cursor-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Cursor"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Codex-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Codex"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Gemini%20CLI-3B82F6?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Gemini CLI"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/MCP-EC4899?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="MCP"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/LangGraph-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="LangGraph"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/RAG%20Pipeline-FF6B35?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="RAG Pipeline"/></a>
@@ -108,7 +112,7 @@ I'm an **AI Builder** driven by a single obsession: *can a machine truly underst
 
 
 <details open>
-<summary><b>🧊 3D Contributions — pick your theme</b></summary>
+<summary><b>🧊 3D Contributions</b></summary>
 
 <p align="center">
   <picture>
@@ -118,37 +122,6 @@ I'm an **AI Builder** driven by a single obsession: *can a machine truly underst
   </picture>
 </p>
 
-<details>
-<summary>🌈 More themes (light &amp; dark)</summary>
-
-<div align="center">
-
-**Light**
-<p>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-green.svg" width="45%" alt="green"/>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-season.svg" width="45%" alt="season"/>
-</p>
-
-**Dark**
-<p>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-night-green.svg" width="45%" alt="night-green"/>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-night-view.svg" width="45%" alt="night-view"/>
-</p>
-
-**Animated**
-<p>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-season-animate.svg" width="45%" alt="season-animate"/>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-south-season-animate.svg" width="45%" alt="south-season-animate"/>
-</p>
-
-**South seasons / gitblock**
-<p>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-south-season.svg" width="45%" alt="south-season"/>
-  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-gitblock.svg" width="45%" alt="gitblock"/>
-</p>
-
-</div>
-</details>
 </details>
 
 ---
