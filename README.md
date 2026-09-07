@@ -71,17 +71,6 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 ### 📊 GitHub Stats
 
 <div align="center">  
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=github&hide_border=true&include_all_commits=true&cache_seconds=86400">  
-  <img src="https://github-readme-stats.vercel.app/api?username=fight-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="175" alt="stats">  
-</picture>
-
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=github&hide_border=true&cache_seconds=86400">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fight-1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="175" alt="top langs">  
-</picture>
 
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fight-1&theme=tokyonight&hide_border=true">  
@@ -90,19 +79,6 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 </picture>  
 </div>
 
----
-
-### 🏆 Achievements
-
-<div align="center">  
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fight-1&theme=tokyonight&margin-w=10&column=8&no-bg=true&no-frame=true">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fight-1&theme=flat&margin-w=10&column=8&no-bg=true&no-frame=true">  
-  <img src="https://github-profile-trophy.vercel.app/?username=fight-1&theme=tokyonight&margin-w=10&column=8&no-bg=true&no-frame=true" width="100%" alt="trophies">  
-</picture>  
-</div>
-
----
 
 ### 🌤 Today
 
@@ -123,7 +99,7 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 ### 🎛 Contribution Visualizer
 
-<sub>Three views of the same contribution data — click any one to explore.</sub>
+<sub>Two views of the same contribution data — click any one to explore.</sub>
 
 <details>
 <summary><b>🐍 Snake — The snake that ate my commits</b></summary>
@@ -136,16 +112,6 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 </details>
 
-<details>
-<summary><b>🔥 Activity Graph — Yearly contribution curve</b></summary>
-
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=tokyonight&hide_border=true&area=true">  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=github&hide_border=true&area=true">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fight-1&theme=tokyonight&hide_border=true&area=true" width="100%" alt="activity graph">  
-</picture>
-
-</details>
 
 <details open>
 <summary><b>🧊 3D Contributions — pick your theme</b></summary>
