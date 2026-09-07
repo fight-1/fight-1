@@ -32,7 +32,6 @@
 <div align="center">
   <a href="#-about-me">About</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-project">Project</a> •
   <a href="#-github-stats">Stats</a> •
   <a href="#latest-posts">Blog</a> •
   <a href="#-lets-connect">Contact</a>
@@ -61,9 +60,9 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 <div align="center">  
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark">  
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=light">  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark" width="100%" alt="tech stack">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,opencv,jest,postman&theme=dark">  
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,opencv,jest,postman&theme=light">  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,opencv,jest,postman&theme=dark" width="100%" alt="tech stack">  
 </picture>
 
 <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Claude%20Code-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Claude Code"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Cursor-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Cursor"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Codex-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Codex"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Gemini%20CLI-3B82F6?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Gemini CLI"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/MCP-EC4899?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="MCP"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/LangGraph-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="LangGraph"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/RAG%20Pipeline-FF6B35?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="RAG Pipeline"/></a>
@@ -72,23 +71,6 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 ---
 
-### 🚀 Featured Project
-
-<div align="center">  
-<h3><a href="https://github.com/fight-1/graphify">Graphify: Turn Code into a Queryable Knowledge Graph</a></h3>
-<p><i>No vector store, no hallucination. Just deterministic AST parsing.</i></p>
-</div>
-
-<div align="center">  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fight-1&repo=graphify&theme=tokyonight&hide_border=true&show_owner=true" alt="graphify"/>  
-</div>
-
-#### 📊 Project Metrics
-<div align="center">
-  <img src="https://img.shields.io/github/stars/fight-1/graphify?style=for-the-badge&color=22D3EE" alt="stars"/> <img src="https://img.shields.io/github/forks/fight-1/graphify?style=for-the-badge&color=A855F7" alt="forks"/> <img src="https://img.shields.io/github/issues/fight-1/graphify?style=for-the-badge&color=FFB000" alt="issues"/>
-</div>
-
----
 
 ### 📊 GitHub Stats
 
