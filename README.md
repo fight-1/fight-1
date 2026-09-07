@@ -8,7 +8,7 @@
 
 ![avatar](https://github.com/fight-1.png?size=140)
 
-# Hi, I'm Crush 👋
+# Hi, I'm fight-1 👋
 
 <picture>  
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;No%20vector%20store.%20No%20hallucination.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time.">  
