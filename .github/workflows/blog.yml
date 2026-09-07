@@ -7,6 +7,7 @@ permissions:
   contents: write
 jobs:
   update:
+    if: false  # disabled: no real blog feed configured yet — enable when feed_list points to a real RSS/Atom URL
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

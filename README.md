@@ -22,10 +22,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=AI%20Engineer%20%C2%B7%20Knowledge%20Graphs%20%26%20Agent%20Tooling;I%20turn%20messy%20codebases%20into%20queryable%20knowledge%20graphs;Building%20agent%20skills%20for%20Claude%20%2F%20Cursor%20%2F%20Codex;Code%20is%20the%20only%20source%20of%20truth" alt="typing">  
 </picture>
 
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/GitHub-fight--1-22D3EE?style=for-the-badge&logo=github&logoColor=0B1020" alt="github"/></a>  
-<a href="https://github.com/fight-1?tab=followers"><img src="https://img.shields.io/github/followers/fight-1?label=Followers&style=for-the-badge&color=A855F7" alt="followers"/></a>  
-<a href="https://github.com/fight-1?tab=repositories"><img src="https://img.shields.io/badge/Repos-2-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>  
-<a href="https://github.com/fight-1"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Ffight-1&label=Profile%20views&countColor=%2322D3EE&style=for-the-badge" alt="views"/></a>
+<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/GitHub-fight--1-22D3EE?style=for-the-badge&logo=github&logoColor=0B1020" alt="github"/></a> <a href="https://github.com/fight-1?tab=followers"><img src="https://img.shields.io/github/followers/fight-1?label=Followers&style=for-the-badge&color=A855F7" alt="followers"/></a> <a href="https://github.com/fight-1"><img src="https://komarev.com/ghpvc/?username=fight-1&color=22D3EE&style=for-the-badge" alt="views"/></a>
 
 </div>
 
@@ -37,7 +34,7 @@
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-featured-project">Project</a> •
   <a href="#-github-stats">Stats</a> •
-  <a href="#✍️-latest-posts">Blog</a> •
+  <a href="#latest-posts">Blog</a> •
   <a href="#-lets-connect">Contact</a>
 </div>
 
@@ -46,10 +43,7 @@
 ### 🧠 About Me
 
 <div align="center">  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Codebase%20Knowledge%20Graphs-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="focus"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Beijing%2C%20China-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="city"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Agent%20Tooling-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="agent"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Since%202020-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="since"/></a>  
+<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Codebase%20Knowledge%20Graphs-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="focus"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Beijing%2C%20China-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="city"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Agent%20Tooling-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="agent"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Since%202020-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="since"/></a>
 </div>
 
 I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a machine truly understand a codebase?*
@@ -67,18 +61,12 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 <div align="center">  
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark">  
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=light">  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,node,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark" width="100%" alt="tech stack">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark">  
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=light">  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,python,go,fastapi,django,docker,kubernetes,aws,linux,bash,git,github,vscode,mysql,redis,graphql,pytorch,tensorflow,pandas,numpy,jupyter,opencv,jest,postman&theme=dark" width="100%" alt="tech stack">  
 </picture>
 
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Claude%20Code-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Claude Code"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Cursor-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Cursor"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Codex-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Codex"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Gemini%20CLI-3B82F6?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Gemini CLI"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/MCP-EC4899?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="MCP"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/LangGraph-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="LangGraph"/></a>  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/RAG%20Pipeline-FF6B35?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="RAG Pipeline"/></a>
+<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Claude%20Code-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Claude Code"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Cursor-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Cursor"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Codex-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Codex"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Gemini%20CLI-3B82F6?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Gemini CLI"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/MCP-EC4899?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="MCP"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/LangGraph-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="LangGraph"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/RAG%20Pipeline-FF6B35?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="RAG Pipeline"/></a>
 
 </div>
 
@@ -97,9 +85,7 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 #### 📊 Project Metrics
 <div align="center">
-  <img src="https://img.shields.io/github/stars/fight-1/graphify?style=for-the-badge&color=22D3EE" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/fight-1/graphify?style=for-the-badge&color=A855F7" alt="forks"/>
-  <img src="https://img.shields.io/github/issues/fight-1/graphify?style=for-the-badge&color=FFB000" alt="issues"/>
+  <img src="https://img.shields.io/github/stars/fight-1/graphify?style=for-the-badge&color=22D3EE" alt="stars"/> <img src="https://img.shields.io/github/forks/fight-1/graphify?style=for-the-badge&color=A855F7" alt="forks"/> <img src="https://img.shields.io/github/issues/fight-1/graphify?style=for-the-badge&color=FFB000" alt="issues"/>
 </div>
 
 ---
@@ -183,16 +169,53 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 </details>
 
+<details open>
+<summary><b>🧊 3D Contributions — pick your theme</b></summary>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-green-animate.svg">
+    <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contributions"/>
+  </picture>
+</p>
+
 <details>
-<summary><b>🧊 3D Contributions — 3D View</b></summary>
+<summary>🌈 More themes (light &amp; dark)</summary>
 
-![3d contributions](https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-3d-contrib.svg)
+<div align="center">
 
+**Light**
+<p>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-green.svg" width="45%" alt="green"/>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-season.svg" width="45%" alt="season"/>
+</p>
+
+**Dark**
+<p>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-night-green.svg" width="45%" alt="night-green"/>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-night-view.svg" width="45%" alt="night-view"/>
+</p>
+
+**Animated**
+<p>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-season-animate.svg" width="45%" alt="season-animate"/>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-south-season-animate.svg" width="45%" alt="south-season-animate"/>
+</p>
+
+**South seasons / gitblock**
+<p>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-south-season.svg" width="45%" alt="south-season"/>
+  <img src="https://raw.githubusercontent.com/fight-1/fight-1/main/profile-3d-contrib/profile-gitblock.svg" width="45%" alt="gitblock"/>
+</p>
+
+</div>
+</details>
 </details>
 
 ---
 
-### ✍️ Latest Posts
+### Latest Posts
 
 <div align="center">
   <a href="https://fight-1.github.io/"><img src="https://img.shields.io/badge/My_Blog-Visit_Now-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="blog"/></a>
@@ -212,11 +235,7 @@ I'm an **AI Builder** based in Beijing, driven by a single obsession: *can a mac
 
 <div align="center">
 
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>  
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>  
-<a href="https://x.com/your-x-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>  
-<a href="https://space.bilibili.com/12345678"><img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili"/></a>  
-<a href="https://fight-1.github.io/"><img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="website"/></a>
+<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <a href="https://fight-1.github.io/"><img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="website"/></a>
 
 </div>
 
