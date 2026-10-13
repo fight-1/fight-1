@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1B2A6B,100:22D3EE&height=210&section=header&text=Crush&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Knowledge%20Graphs%20%26%20Agent%20Tooling&descAlignY=66&descSize=18">  
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:F3F4F6,100:D9DDE3&height=210&section=header&text=Crush&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Knowledge%20Graphs%20%26%20Agent%20Tooling&descAlignY=66&descSize=18">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1B2A6B,100:22D3EE&height=210&section=header&text=Crush&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Knowledge%20Graphs%20%26%20Agent%20Tooling&descAlignY=66&descSize=18" alt="banner" width="100%">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1B2A6B,100:22D3EE&height=210&section=header&text=Crush&fontSize=52&fontAlignY=38&desc=AI%20Full-Stack%20%C2%B7%20Products%2C%20Agents%20%26%20Models&descAlignY=66&descSize=18">  
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:F3F4F6,100:D9DDE3&height=210&section=header&text=Crush&fontSize=52&fontAlignY=38&desc=AI%20Full-Stack%20%C2%B7%20Products%2C%20Agents%20%26%20Models&descAlignY=66&descSize=18">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1B2A6B,100:22D3EE&height=210&section=header&text=Crush&fontSize=52&fontAlignY=38&desc=AI%20Full-Stack%20%C2%B7%20Products%2C%20Agents%20%26%20Models&descAlignY=66&descSize=18" alt="banner" width="100%">  
 </picture>
 
 ![avatar](https://github.com/fight-1.png?size=140)
@@ -11,9 +11,9 @@
 # Hi, I'm fight-1 👋
 
 <picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;No%20vector%20store.%20No%20hallucination.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time.">  
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=111827&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;No%20vector%20store.%20No%20hallucination.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time.">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;No%20vector%20store.%20No%20hallucination.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time." alt="typing">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;Ship%20ugly.%20Iterate%20loudly.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time.">  
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=111827&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;Ship%20ugly.%20Iterate%20loudly.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time.">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Code%20is%20the%20only%20source%20of%20truth.%20Everything%20else%20is%20a%20rumor.;Ship%20ugly.%20Iterate%20loudly.;If%20you%20cannot%20trace%20the%20edge%20it%20is%20not%20a%20graph;Talk%20is%20cheap.%20Show%20me%20the%20code.;Any%20fool%20can%20write%20code%20a%20machine%20can%20run;Abstractions%20leak.%20Ship%20them%20anyway.;Weeks%20of%20coding%20can%20save%20hours%20of%20planning;Make%20it%20work.%20Make%20it%20right.%20Make%20it%20fast.;The%20fastest%20code%20is%20the%20code%20you%20never%20run;Determinism%20beats%20guessing.%20Every%20time." alt="typing">  
 </picture>
 
 <a href="https://github.com/fight-1?tab=followers"><img src="https://img.shields.io/github/followers/fight-1?label=Followers&style=for-the-badge&color=A855F7" alt="followers"/></a> <a href="https://github.com/fight-1"><img src="https://komarev.com/ghpvc/?username=fight-1&color=22D3EE&style=for-the-badge" alt="views"/></a>
@@ -36,17 +36,17 @@
 ### 🧠 About Me
 
 <div align="center">  
-<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Beijing%2C%20China-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="city"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Agent%20Tooling-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="agent"/></a>
+<a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/AI%20Full%20Stack-22D3EE?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="AI Full Stack"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Agent%20Builder-A855F7?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Agent Builder"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Ship%20Fast-22C55E?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="Ship Fast"/></a> <a href="https://github.com/fight-1"><img src="https://img.shields.io/badge/Beijing%2C%20China-FFB000?style=for-the-badge&labelColor=1F2937&logoColor=white" alt="city"/></a>
 </div>
 
-I'm an **AI Builder** driven by a single obsession: *can a machine truly understand a codebase?*
+I'm an **AI full-stack builder** — I take AI products from idea to shipped, owning the whole loop: design, code, models, and agents.
 
-- 🔭 **Building** — deterministic AST parsing, every edge traceable. **No vector store, no black boxes.**
-- 🛠 **Shipping** — production-ready agent skills, packaged for drop-in use.
-- 🌱 **Learning** — context engineering · agent orchestration · **evaluation frameworks**.
-- 🎯 **2026 Focus** — agent tooling that makes AI assistants truly understand large-scale codebases.
-- ⚡ **Fun fact** — I'd rather write a parser than trust an embedding.
-- 🤝 **Open to** — remote collaboration, open source, building in public.
+- 🔭 **Building** — end-to-end AI products: interfaces, APIs, agents, and the models behind them.
+- 🛠 **Shipping** — AI-assisted from day one. Idea to deployed in days, not quarters.
+- 🤖 **Agents** — tool-using, orchestrated, and evaluated. If it can't be measured, it doesn't ship.
+- 🎯 **Models** — fine-tuning and retrieval when prompting stops scaling — chosen deliberately, never by reflex.
+- ⚡ **Fun fact** — My first draft is always written by a model. My second draft usually ships.
+- 🤝 **Open to** — building AI products with people who'd rather iterate than plan.
 
 ---
 
